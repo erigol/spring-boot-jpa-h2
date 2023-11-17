@@ -10,9 +10,10 @@ In this tutorial, we're gonna build a Spring Boot Rest CRUD API example with Mav
 - Way to create Spring Rest Controller to process HTTP requests
 - Way to use Spring Data JPA to interact with H2 Database
 
+## How to run the application ##
 
-1.Select the main Class:SpringBootJpaH2Application.java and Run as Java Application from  IDE.(Eclipse)
-2. On the browser can interact with H2 database: http://localhost:8080/h2-ui/ : 
+1. Select the main Class:SpringBootJpaH2Application.java and Run as Java Application from  IDE.(Eclipse)
+2. On the browser can interact with H2 database: http://localhost:8080/h2-ui/ 
 3. Postman: import the collection in resources/postman and you can try the funcionality when the application is running.
 
 
